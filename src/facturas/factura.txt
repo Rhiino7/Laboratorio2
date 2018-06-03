@@ -1,0 +1,6 @@
+Empresa S.A.
+UNAL
+StringProperty [value: null]        StringProperty [value: null]
+StringProperty [value: Harina]        StringProperty [value: 3500.0]
+StringProperty [value: Cereal]        StringProperty [value: 8000.0]
+StringProperty [value: Chocolate]        StringProperty [value: 10000.0]
